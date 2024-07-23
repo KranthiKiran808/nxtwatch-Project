@@ -1,0 +1,36 @@
+.input-container {
+  margin-top: 10px;
+}
+.website-logo {
+  text-align: center;
+}
+.input-container label {
+  font-size: 10px;
+  font-weight: 500;
+}
+.website-logo img {
+  width: 150px;
+  margin-bottom: 20px;
+}
+.login-button {
+  width: 100%;
+  border-radius: 7px;
+  border: none;
+  background-color: #3b82f6;
+  color: #ffffff;
+  margin-top: 20px;
+  font-weight: 300;
+  height: 30px;
+}
+.show-password {
+  margin-top: 10px;
+  font-size: 14px;
+}
+.show-password input {
+  margin-right: 10px;
+}
+.main-bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

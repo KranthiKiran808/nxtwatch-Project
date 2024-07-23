@@ -1,0 +1,21 @@
+.side-icon-container:hover {
+  background-color: #606060;
+}
+.contact-us-container {
+  padding: 20px;
+}
+.contact-us-para {
+  width: 200px;
+}
+.face-twi-link-container {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  margin: 20px 0 20px 0;
+}
+.face-twi-link-container img {
+  width: 35px;
+}
+.side-icon-bg-container {
+  padding: 10px;
+}

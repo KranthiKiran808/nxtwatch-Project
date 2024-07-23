@@ -1,0 +1,23 @@
+.header-container {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  justify-content: space-between;
+  height: 10vh;
+}
+.websitelogo-container img {
+  width: 150px;
+}
+.profile-img {
+  width: 30px;
+}
+.user-details-container {
+  display: flex;
+  align-items: flex-top;
+  gap: 50px;
+}
+.bg-button {
+  border: none;
+  font-size: 25px;
+  background-color: transparent;
+}
